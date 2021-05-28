@@ -12,6 +12,7 @@ A list of participants in CSC 195
 * Eve B. Lyons-Berg
 * Shaun S. Mataire
 * Alexander C. Mitchell
+* Soveet Nayak
 * Khoa Nguyen
 * Linda Oyolu
 * Samuel A. Rebelsky
