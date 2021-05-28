@@ -1,4 +1,0 @@
-Hi.
-I am Soveet.
-Btw This is my first time using Vim.
-Okay Bye.
